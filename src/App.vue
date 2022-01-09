@@ -1,5 +1,5 @@
 <template>
-  <div class="my-40 max-w-3xl mx-auto antialiased">
+  <div class="my-28 max-w-3xl mx-auto antialiased">
     <div class="flex flex-col space-y-10">
       <h1 class="text-[5.625rem] leading-snug">On-Page SEO Basics</h1>
       <p class="text-xl font-normal leading-normal">
