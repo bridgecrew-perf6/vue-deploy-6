@@ -1,5 +1,5 @@
 <template>
-  <div class="my-28 max-w-3xl mx-auto antialiased">
+  <div class="my-10 px-6 md:my-28 max-w-3xl mx-auto antialiased">
     <div class="flex flex-col space-y-10">
       <h1 class="text-[5.625rem] leading-snug">On-Page SEO Basics</h1>
       <p class="text-xl font-normal leading-normal">
@@ -8,8 +8,8 @@
       </p>
     </div>
     <div class="mt-20">
-      <h2 class="text-6xl leading-normal">All new features and updates</h2>
-      <div>
+      <h2 class="text-6xl leading-tight md:leading-normal">All new features and updates</h2>
+      <div class="mt-8">
         <p class="text-xl font-normal leading-normal">
           A Live license is intended for a single user and cannot be shared.
           Each license covers the use of the software on two active computers owned by the registered user.
