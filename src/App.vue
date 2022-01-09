@@ -9,12 +9,12 @@
     </div>
     <div class="mt-20">
       <h2 class="text-[2.5rem] lg:text-6xl leading-[1.4] md:leading-normal">All new features and updates</h2>
-      <div class="mt-5 lg:mt-8 text-lg space-y-5 ">
-        <p class="font-normal leading-normal">
+      <div class="mt-5 font-normal leading-normal text-lg lg:text-xl lg:mt-8 space-y-5 ">
+        <p>
           A Live license is intended for a single user and cannot be shared.
           Each license covers the use of the software on two active computers owned by the registered user.
         </p>
-        <p class="font-normal leading-normal">
+        <p>
           A new authorization may become necessary in the event of replacing essential hardware components (motherboard, hard drive, graphic card, etc.) or after an OS reinstallation.
           If you run out of available authorizations, you can
           <a href="" class="text-[#0000F5]">request more unlocks</a> provided you will only have Live installed on two machines in total.
