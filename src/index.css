@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	@font-face {
+		font-family: "Futura PT";
+		font-style: normal;
+		font-weight: 400;
+		src: local("Futura PT Book"), url("FuturaCyrillicBook.woff") format("woff");
+		font-display: swap;
+	}
+	@font-face {
+		font-family: "Futura PT";
+		font-style: normal;
+		font-weight: 500;
+		src: local("Futura PT Medium"),
+			url("FuturaCyrillicMedium.woff") format("woff");
+      font-display: swap;
+	}
+}
+
+html {
+  font-family: "Futura PT", sans-serif;
+  font-weight: 500;
+}
