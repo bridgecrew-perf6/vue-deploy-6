@@ -7,15 +7,14 @@
 		font-family: "Futura PT";
 		font-style: normal;
 		font-weight: 400;
-		src: local("Futura PT Book"), url("/fonts/FuturaCyrillicBook.woff") format("woff");
+		src: url("/fonts/FuturaCyrillicBook.woff") format("woff");
 		font-display: swap;
 	}
 	@font-face {
 		font-family: "Futura PT";
 		font-style: normal;
 		font-weight: 500;
-		src: local("Futura PT Medium"),
-    url("/fonts/FuturaCyrillicMedium.woff") format("woff");
+		src: url("/fonts/FuturaCyrillicMedium.woff") format("woff");
       font-display: swap;
 	}
 }
